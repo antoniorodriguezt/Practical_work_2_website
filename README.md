@@ -22,4 +22,8 @@ During the development of this website, I faced plenty os troubles and erros in 
 
 #CONCLUSIONS
 
+<<<<<<< HEAD
 To conclude, i´d like to add that this proyect has been such a very nice way to practise some HTML, this proyect offered me plenty of productive new knoweldge like programing skills or the tools i discovered to develop my proyect.
+=======
+To conclude, i´d like to add that this proyect has been such a very nice way to practise some HTML, this proyect offered me plenty of productive new knoweldge like programing skills or the tools i discovered to develop my proyect.
+>>>>>>> fe0a09a23229a603b7718efa14024fabf1ae9218
