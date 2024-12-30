@@ -21,9 +21,3 @@ This project is based on a website, which is divided into several sections: Inde
 During the development of this website, I faced plenty os troubles and erros in the code, the most of all, when i started programming since i had not programmed for ages thats the reason why I had to study again all the code I practised. Also, at the end of the proyect i faced another trouble in github because of the branches. Other problem i had, could be the time to conclude the canvas task so I didn´t organise myself correctly.
 
 #CONCLUSIONS
-
-<<<<<<< HEAD
-To conclude, i´d like to add that this proyect has been such a very nice way to practise some HTML, this proyect offered me plenty of productive new knoweldge like programing skills or the tools i discovered to develop my proyect.
-=======
-To conclude, i´d like to add that this proyect has been such a very nice way to practise some HTML, this proyect offered me plenty of productive new knoweldge like programing skills or the tools i discovered to develop my proyect.
->>>>>>> fe0a09a23229a603b7718efa14024fabf1ae9218
